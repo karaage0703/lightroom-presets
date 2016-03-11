@@ -16,7 +16,7 @@ s = {
 			ColorNoiseReduction = 25,
 			ColorNoiseReductionDetail = 50,
 			ColorNoiseReductionSmoothness = 50,
-			Contrast2012 = 90,
+			Contrast2012 = 100,
 			ConvertToGrayscale = false,
 			Defringe = 0,
 			DefringeGreenAmount = 0,
@@ -102,7 +102,7 @@ s = {
 			VignetteMidpoint = 50,
 			Whites2012 = -100,
 		},
-		uuid = "0662753D-C99C-464C-9B99-37209C85D0C4",
+		uuid = "E74F0987-DB89-495E-B0FB-434529980AF7",
 	},
 	version = 0,
 }
